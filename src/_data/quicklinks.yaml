@@ -1,14 +1,18 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Google Chrome Apps
+    url: "https://en.wikipedia.org/wiki/Google_Chrome_App"
+    desc: Vanishing in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.
+    dateClose: "June 2022"
+  - title: Android Things
+    url: "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html"
+    desc: Getting unplugged in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old.
+    dateClose: "January 2022"
+  - title: AngularJS
+    url: "https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c"
+    desc: Scheduled to be killed in 10 months, AngularJS was a JavaScript open-source front-end web framework based on MVC pattern using a dependency injection technique. It will be about 11 years old.
+    dateClose: December 2021
+ - title: Google Hangouts
+    url: "https://arstechnica.com/gadgets/2019/01/the-great-google-hangouts-shutdown-begins-october-2019/"
+    desc: Floating belly up in 4 months, Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution scheduled "first half 2021". It will be over 8 years old.
+    dateClose: June 2021
